@@ -1,0 +1,6 @@
+# Python Learning Journey
+
+## Day 1 - December 1, 2024
+- Learned about variables and data types
+- Practiced creating strings an intergers.
+

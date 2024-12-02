@@ -2,5 +2,7 @@
 
 ## Day 1 - December 1, 2024
 - Learned about variables and data types
-- Practiced creating strings an intergers.
+- Practiced creating strings and intergers.
 
+# Day 2 - December 2, 2024
+- Learned about arguments and some functions: input(), print(), len(), str(), int(), float()
